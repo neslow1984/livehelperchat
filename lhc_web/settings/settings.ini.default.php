@@ -10,10 +10,10 @@ return array (
                     'theme' => 'defaulttheme',
                     'installed' => false,
                     'secrethash' => '',
-                    'debug_output' => false,
-                    'templatecache' => false,
-                    'templatecompile' => false,
-                    'modulecompile' => false,
+                   debug_output => true
+* templatecache => false
+* templatecompile => false
+* modulecompile => false
                     'force_virtual_host' => false,
                     'one_login_per_account' => false,
                     'time_zone' => '',
