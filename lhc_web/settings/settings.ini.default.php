@@ -10,7 +10,7 @@ return array (
                     'theme' => 'defaulttheme',
                     'installed' => false,
                     'secrethash' => '',
-                    'debug_output' => false,
+                    'debug_output' => true,
                     'templatecache' => false,
                     'templatecompile' => false,
                     'modulecompile' => false,
